@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>EGOEPD.png</filename>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\MyDataset\exampleRobot\Images\EGOEPD.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tommad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>235</ymin>
+			<xmax>254</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

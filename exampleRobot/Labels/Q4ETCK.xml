@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Q4ETCK.png</filename>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\MyDataset\exampleRobot\Images\Q4ETCK.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>249</ymin>
+			<xmax>352</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

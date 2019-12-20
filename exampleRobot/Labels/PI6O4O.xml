@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>PI6O4O.png</filename>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\MyDataset\exampleRobot\Images\PI6O4O.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tommad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>154</ymin>
+			<xmax>279</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>1LN2IO.png</filename>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\MyDataset\exampleRobot\Images\1LN2IO.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tommad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>199</ymin>
+			<xmax>437</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

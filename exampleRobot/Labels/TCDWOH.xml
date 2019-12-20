@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>TCDWOH.png</filename>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\MyDataset\exampleRobot\Images\TCDWOH.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tommad</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>141</ymin>
+			<xmax>326</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

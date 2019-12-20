@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>XJD6L3.png</filename>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\MyDataset\exampleRobot\Images\XJD6L3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>250</ymin>
+			<xmax>189</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

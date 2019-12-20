@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>MEDUK2.png</filename>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\MyDataset\exampleRobot\Images\MEDUK2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tommad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>205</ymin>
+			<xmax>357</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

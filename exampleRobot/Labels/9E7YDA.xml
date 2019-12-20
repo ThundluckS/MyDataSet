@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>9E7YDA.png</filename>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\MyDataset\exampleRobot\Images\9E7YDA.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>249</ymin>
+			<xmax>407</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

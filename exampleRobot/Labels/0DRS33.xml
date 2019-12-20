@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>0DRS33.png</filename>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\MyDataset\exampleRobot\Images\0DRS33.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>253</ymin>
+			<xmax>381</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>
